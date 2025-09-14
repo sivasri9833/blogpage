@@ -228,6 +228,9 @@ Content-Type: application/json
   "imageURL": "https://example.com/image.jpg"
 }
 ```
+![Screenshot](sc1.png)
+![Screenshot](sc2.png)
+![Screenshot](sc4.png)
 
 #### Update Post (Protected - Owner only)
 ```http
@@ -240,6 +243,9 @@ Content-Type: application/json
   "content": "Updated content..."
 }
 ```
+![Screenshot](sc3.png)
+![Screenshot](sc5.png)
+![Screenshot](sc6.png)
 
 #### Delete Post (Protected - Owner only)
 ```http
@@ -371,10 +377,12 @@ This project is licensed under the MIT License.
    - Clear node_modules and reinstall
    - Check Node.js version compatibility
 
-## 📞 Support
+![Screenshot](sc7.png)
+![Screenshot](sc8.png)
+![Screenshot](sc9.png)
+![Screenshot](sc10.png)
+![Screenshot](sc11.png)
+![Screenshot](sc12.png)
+![Screenshot](sc13.png)
 
-For support or questions, please open an issue in the repository or contact the development team.
 
----
-
-**Happy Blogging! 🎉**
